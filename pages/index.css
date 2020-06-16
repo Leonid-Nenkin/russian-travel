@@ -7,3 +7,32 @@
 @import url('../blocks/photo-grid/photo-grid.css');
 @import url('../blocks/places/places.css');
 @import url('../blocks/cover/cover.css');
+
+@media screen and (min-width: 1280px) {
+
+}
+
+@media screen and (max-width: 1024px) {
+
+}
+
+@media screen and (max-width: 768px) {
+
+}
+
+@media screen and (max-width: 320px) {
+    .header {
+        min-height: 42px;
+        max-width: 288px;
+    }
+
+    .header__logo {
+        width: 142px;
+        height: 42px;
+    }
+
+    .header__lang-link {
+        font-size: 18px;
+        line-height: 24px;
+    }
+}
