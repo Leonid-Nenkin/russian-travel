@@ -16,6 +16,10 @@
     .lead {
         max-width: 984px;
     }
+
+    .lead__subtitle {
+        margin-bottom: 64px;
+    }
 }
 
 @media screen and (max-width: 1024px) {
