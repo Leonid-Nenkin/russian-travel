@@ -1,0 +1,8 @@
+.place__main-text {
+    grid-area: main-text;
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+    font-size: 18px;
+    line-height: 30px;
+}

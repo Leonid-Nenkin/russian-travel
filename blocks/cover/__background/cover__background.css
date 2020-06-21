@@ -1,0 +1,11 @@
+.cover__background {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: 0.5s 0s opacity ease-in;
+}
+
+.cover__background {
+    opacity: 0.4;
+}

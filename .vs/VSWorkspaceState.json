@@ -2,8 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\blocks",
-    "\\blocks\\places"
+    "\\blocks\\footer",
+    "\\blocks\\footer\\__copyright",
+    "\\blocks\\footer\\__link",
+    "\\blocks\\intro\\__list-item\\_accent",
+    "\\blocks\\page",
+    "\\blocks\\page\\_section-margin",
+    "\\blocks\\page\\_section-margin\\_section-name",
+    "\\images"
   ],
-  "SelectedNode": "\\blocks\\places\\places.css",
+  "SelectedNode": "\\blocks\\page\\_section-margin\\page_section-margin.css",
   "PreviewInSolutionExplorer": false
 }
