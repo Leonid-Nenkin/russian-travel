@@ -3,14 +3,14 @@
     "",
     "\\blocks",
     "\\blocks\\footer",
-    "\\blocks\\footer\\__copyright",
-    "\\blocks\\footer\\__link",
-    "\\blocks\\intro\\__list-item\\_accent",
-    "\\blocks\\page",
-    "\\blocks\\page\\_section-margin",
+    "\\blocks\\header\\__lang-link\\_styles",
+    "\\blocks\\header\\__logo",
     "\\blocks\\page\\_section-margin\\_section-name",
-    "\\images"
+    "\\blocks\\photo-grid\\__item",
+    "\\Inter",
+    "\\Inter\\Inter Web",
+    "\\pages"
   ],
-  "SelectedNode": "\\blocks\\page\\_section-margin\\page_section-margin.css",
+  "SelectedNode": "\\Inter\\Inter Web\\inter.css",
   "PreviewInSolutionExplorer": false
 }
