@@ -2,15 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\blocks",
-    "\\blocks\\footer",
-    "\\blocks\\header\\__lang-link\\_styles",
-    "\\blocks\\header\\__logo",
-    "\\blocks\\page\\_section-margin\\_section-name",
-    "\\blocks\\photo-grid\\__item",
-    "\\Inter",
-    "\\Inter\\Inter Web",
+    "\\blocks\\header",
+    "\\blocks\\intro",
+    "\\blocks\\page",
     "\\pages"
   ],
-  "SelectedNode": "\\Inter\\Inter Web\\inter.css",
+  "SelectedNode": "\\blocks\\header\\header.css",
   "PreviewInSolutionExplorer": false
 }

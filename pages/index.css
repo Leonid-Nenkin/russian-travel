@@ -9,72 +9,67 @@
 @import url('../blocks/place/place.css');
 @import url('../blocks/cover/cover.css');
 
-@media screen and (min-width: 1280px) {
-    .page_section-margin_header {
-        margin-bottom: 56px;
-    }
+@media screen and (max-width: 1280px) {
 
-    .lead {
-        max-width: 984px;
+    .intro {
+        margin-left: 148px;
     }
     
     .lead__subtitle {
         margin-bottom: 64px;
     }
 
-    .page_section-margin_intro {
-        margin-left: 148px;
-    }
-
-    .photo-grid {
-        grid-template-columns: repeat(4, 1fr);
-    }
-
 }
 
 @media screen and (max-width: 1024px) {
-    .page_section-margin_intro {
+    .header {
+        padding-bottom: 48px;
+    }
+
+    .lead {
+        max-width: 962px;
+        margin: 0 auto;
+    }
+
+    .intro {
         margin-left: 48px;
+        padding-left: 0;
     }
 
-    .lead__image {
-        width: 928px;
-        height: 580px;
-        margin: 0;
-    }
-
-@media screen and (max-width: 928px) {
-    .lead__image {
-        width: 100%;
-        height: auto;
-        margin: 0;
+    .photo-grid {
+        max-width: 100%;
+        margin: 92px auto 0;
+        grid-template-columns: repeat(3, 1fr);
     }
 }
 
 @media screen and (max-width: 768px) {
-
-    .lead__caption {
-        margin-left: 24px;
+    .header {
+        max-width: calc(100% - 48px);
     }
 
-    .page_section-margin_intro {
-        margin-top: 88px;
-        margin-left: 24px;
+    .lead {
+        width: 100%;
     }
 
     .intro {
+        padding-left: 0;
+        margin: 0 auto;
+        padding-top: 88px;
         max-width: 720px;
     }
 
-    .page_section-margin_photo-grid {
-        margin: 88px auto 0;
+    .photo-grid {
+        max-width: 100%;
+        grid-template-columns: repeat(2, 1fr);
+        padding: 0 24px;
     }
 
     .place__title {
         font-size: 42px;
         line-height: 46px;
     }
-    
+
     .place__paragraph {
         font-size: 16px;
         line-height: 26px;
@@ -86,6 +81,7 @@
 }
 
 @media screen and (max-width: 660px) {
+
     .lead__title {
         font-size: 50px;
         line-height: 50px;
@@ -115,9 +111,10 @@
 
 @media screen and (max-width: 320px) {
     .header {
+        max-width: calc(100% - 32px);
         min-height: 42px;
         max-width: 288px;
-        padding-top: 16px;
+        padding: 16px 0 48px;
     }
 
     .header__logo {
@@ -128,6 +125,10 @@
     .header__lang-link {
         font-size: 18px;
         line-height: 24px;
+    }
+    
+    .lead {
+        max-width: 100%
     }
 
     .lead__title {
@@ -142,9 +143,13 @@
         line-height: 20px;
         margin: 16px auto 40px;
     }
-    
+
     .lead__caption {
         margin-left: 16px;
+    }
+
+    .intro {
+        padding-top: 64px;
     }
 
     .intro__title {
@@ -153,16 +158,10 @@
     }
 
     .photo-grid {
+        max-width: 288px;
         grid-gap: 12px;
-    }
-
-    .page_section-margin_intro {
-        margin-top: 64px;
-        margin-left: 16px;
-    }
-
-    .page_section-margin_photo-grid {
-        margin: 64px auto 0;
+        grid-template-columns: repeat(1, 1fr);
+        padding: 0 16px;
     }
 
     .place {
@@ -212,9 +211,5 @@
         font-size: 24px;
         line-height: 24px;
         justify-content: space-between;
-    }
-
-    .page_section-margin_footer {
-        margin: 64px 16px 0;
     }
 }
