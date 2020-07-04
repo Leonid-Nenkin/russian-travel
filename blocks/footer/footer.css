@@ -9,3 +9,22 @@
     align-items: baseline;
     margin: 92px 48px 0px;
 }
+
+@media screen and (max-width: 768px) {
+    .footer {
+        margin: 82px 24px 0;
+    }
+}
+
+@media screen and (max-width: 660px) {
+
+    .footer {
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .footer {
+        flex-direction: column;
+    }
+}

@@ -9,3 +9,28 @@
     margin: 92px auto;
     padding: 0 48px;
 }
+
+@media screen and (max-width: 1024px) {
+    .photo-grid {
+        max-width: 100%;
+        margin: 92px auto 0;
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .photo-grid {
+        max-width: 100%;
+        grid-template-columns: repeat(2, 1fr);
+        padding: 0 24px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .photo-grid {
+        max-width: 288px;
+        grid-gap: 12px;
+        grid-template-columns: repeat(1, 1fr);
+        padding: 0 16px;
+    }
+}

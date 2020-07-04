@@ -2,11 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\blocks",
-    "\\blocks\\header",
-    "\\blocks\\intro",
-    "\\blocks\\page",
     "\\pages"
   ],
-  "SelectedNode": "\\blocks\\header\\header.css",
+  "SelectedNode": "\\pages",
   "PreviewInSolutionExplorer": false
 }
