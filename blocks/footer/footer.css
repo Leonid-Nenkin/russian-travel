@@ -7,13 +7,7 @@
     flex-direction: row;
     justify-content: space-between;
     align-items: baseline;
-    margin: 92px 48px 0px;
-}
-
-@media screen and (max-width: 768px) {
-    .footer {
-        margin: 82px 24px 0;
-    }
+    margin: 0;
 }
 
 @media screen and (max-width: 660px) {
