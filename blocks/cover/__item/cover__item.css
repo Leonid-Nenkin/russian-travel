@@ -14,23 +14,8 @@
     background-position: center;
     position: relative;
     width: 100%;
-    z-index: 1;
-    transition: 0.5s 0s opacity ease-in
-}
-
-.cover__item::before {
-    content: '';
-    background: #2A2C2F;
-    opacity: 0.3;
-    position: absolute;
-    top: 0;
-    left: 0;
-    transition: 0.3s;
-    z-index: -2;
-}
-
-.cover__item:hover{
-    opacity: 0.3;
+    z-index: 0;
+    transition: 0.5s 0s opacity ease-in;
 }
 
 @media screen and (max-width: 1024px) {
