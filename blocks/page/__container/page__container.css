@@ -10,8 +10,8 @@
     padding: 28px 0 24px;
 }
 
-@media sreen and (max-width: 320px) {
+@media screen and (max-width: 320px) {
     .page__container {
-        padding-top: 16px;
+        padding: 16px 0 24px;
     }
 }

@@ -8,3 +8,9 @@
     font-family: 'Inter', Arial, sans-serif;
     color: white;
 }
+
+/*@media screen and (min-width: 1280px) {
+    .page {
+        width: 1280px;
+    }
+}*/

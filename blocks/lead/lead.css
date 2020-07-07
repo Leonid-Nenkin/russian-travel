@@ -7,19 +7,11 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    /*max-width: 984px;*/
     margin: 0 auto;
-}
-
-@media screen and (max-width: 1280px) {
-    .lead__subtitle {
-        margin-bottom: 64px;
-    }
 }
 
 @media screen and (max-width: 1024px) {
     .lead {
-        /*max-width: 962px;*/
         margin: 0 auto;
     }
 }
@@ -32,7 +24,6 @@
 
 @media screen and (max-width: 320px) {
     .lead {
-        /*max-width: 100%*/
     }
 
 }
