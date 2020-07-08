@@ -2,6 +2,13 @@
 
 .section {
     max-width: calc(100% - 48px*2);
+    margin: 0 auto;
+}
+
+@media scree and (max-width:1024px) {
+    .section {
+        max-width: calc(100% - 48px*2);
+    }
 }
 
 @media screen and (max-width: 768px) {

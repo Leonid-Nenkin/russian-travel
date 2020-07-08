@@ -1,6 +1,8 @@
 .lead__image {
-    object-fit: contain;
-    margin: 0 auto 8px;
+    position: absolute;
+    left: 0;
+    top: 0;
     width: 100%;
-    height: auto;
+    height: 100%;
+    margin: 0 auto 8px;
 }

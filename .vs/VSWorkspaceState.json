@@ -2,16 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\blocks",
-    "\\blocks\\cover\\__background",
-    "\\blocks\\cover\\__item",
-    "\\blocks\\cover\\__overlay",
-    "\\blocks\\cover\\__subtitle",
-    "\\blocks\\cover\\__title",
+    "\\blocks\\intro\\__title",
+    "\\blocks\\lead",
+    "\\blocks\\lead\\__image",
+    "\\blocks\\lead\\__title",
     "\\blocks\\page",
     "\\blocks\\page\\__container",
-    "\\blocks\\place",
-    "\\blocks\\place\\__website-link"
+    "\\blocks\\section\\_content"
   ],
-  "SelectedNode": "\\blocks\\place\\__website-link\\place__website-link.css",
+  "SelectedNode": "\\blocks\\lead\\__image\\lead__image.css",
   "PreviewInSolutionExplorer": false
 }

@@ -1,17 +1,10 @@
 .page__container {
-    max-width: 1184px;
+    max-width: 1280px;
     min-width: 320px;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
     margin: 0 auto;
     width: 100%;
-    max-width: calc(100% - 48px*2);
     padding: 28px 0 24px;
-}
-
-@media screen and (max-width: 320px) {
-    .page__container {
-        padding: 16px 0 24px;
-    }
 }
