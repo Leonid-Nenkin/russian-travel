@@ -1,0 +1,10 @@
+.photo-grid__aspect-ratio-box {
+    position: relative;
+    width: 100%;
+}
+
+.photo-grid__aspect-ratio-box::after {
+    display: block;
+    content: '';
+    padding-bottom: 75%;
+}

@@ -1,15 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\blocks",
-    "\\blocks\\intro\\__title",
-    "\\blocks\\lead",
-    "\\blocks\\lead\\__image",
-    "\\blocks\\lead\\__title",
-    "\\blocks\\page",
-    "\\blocks\\page\\__container",
-    "\\blocks\\section\\_content"
+    ""
   ],
-  "SelectedNode": "\\blocks\\lead\\__image\\lead__image.css",
+  "SelectedNode": "\\blocks",
   "PreviewInSolutionExplorer": false
 }
