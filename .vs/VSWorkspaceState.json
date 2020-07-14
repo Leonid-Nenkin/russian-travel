@@ -1,7 +1,15 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\blocks",
+    "\\blocks\\header",
+    "\\blocks\\intro\\__span-accent",
+    "\\blocks\\page",
+    "\\blocks\\page\\__header",
+    "\\blocks\\section",
+    "\\blocks\\section\\_content",
+    "\\images"
   ],
-  "SelectedNode": "\\blocks",
+  "SelectedNode": "\\blocks\\page\\__header\\page__header.css",
   "PreviewInSolutionExplorer": false
 }

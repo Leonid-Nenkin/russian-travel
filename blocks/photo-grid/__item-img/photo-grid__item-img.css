@@ -1,0 +1,5 @@
+.photo-grid__item-img {
+    vertical-align: top;
+    max-width: 100%;
+    object-fit: cover;
+}

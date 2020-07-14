@@ -1,24 +1,10 @@
-@import url("__lang-link/header__lang-link.css");
-@import url("__logo/header__logo.css");
 @import url("__menu/header__lang-menu.css");
+@import url("__lang-link/header__lang-link.css");
+@import url("__lang-link/_styles/header__lang-link_active.css");
+@import url("__logo/header__logo.css");
 
 .header {
-    margin: 0 auto;
-    box-sizing: border-box;
-    width: 100%;
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
-    padding-bottom: 56px;
-}
-
-@media screen and (max-width: 1024px) {
-    .header {
-        padding-bottom: 48px;
-    }
-}
-
-@media screen and (max-width: 320px) {
-    .header {
-    }
 }
