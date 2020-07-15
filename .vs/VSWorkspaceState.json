@@ -2,14 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\blocks",
-    "\\blocks\\header",
     "\\blocks\\intro\\__span-accent",
-    "\\blocks\\page",
-    "\\blocks\\page\\__header",
-    "\\blocks\\section",
-    "\\blocks\\section\\_content",
-    "\\images"
+    "\\blocks\\lead",
+    "\\blocks\\lead\\__subtitle",
+    "\\blocks\\page\\__container",
+    "\\blocks\\page\\__footer",
+    "\\blocks\\place",
+    "\\blocks\\place\\__image",
+    "\\blocks\\section"
   ],
-  "SelectedNode": "\\blocks\\page\\__header\\page__header.css",
+  "SelectedNode": "\\blocks\\place\\__image\\place__image.css",
   "PreviewInSolutionExplorer": false
 }

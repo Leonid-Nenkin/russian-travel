@@ -1,4 +1,21 @@
-@import url('_content/section_content_narrow.css');
-
 .section {
+    max-width: calc(100% - 2 * 148px);
+}
+
+@media screen and (max-width: 1024px) {
+    .section {
+        max-width: calc(100% - 2 * 48px);
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .section {
+        max-width: calc(100% - 24px*2);
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .section {
+        max-width: calc(100% - 16px*2);
+    }
 }
