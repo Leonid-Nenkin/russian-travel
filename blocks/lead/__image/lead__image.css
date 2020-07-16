@@ -11,7 +11,7 @@
     }
 }
 
-@media screen and (max-width: 660px) {
+@media screen and (max-width: 320px) {
     .lead__image {
         width: calc(100% + 32px);
     }
