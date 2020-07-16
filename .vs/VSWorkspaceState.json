@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\blocks",
-    "\\blocks\\intro"
+    "\\blocks\\place",
+    "\\blocks\\places",
+    "\\blocks\\place\\__title"
   ],
-  "SelectedNode": "\\blocks\\section",
+  "SelectedNode": "\\blocks\\place\\__title\\place__title.css",
   "PreviewInSolutionExplorer": false
 }
