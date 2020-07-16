@@ -4,6 +4,7 @@
     margin-left: 18px;
     color: white;
     text-decoration: none;
+    transition: 0.5s 0s opacity ease-in;
 }
 
 @media screen and (max-width: 320px) {

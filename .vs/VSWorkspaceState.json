@@ -2,15 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\blocks",
-    "\\blocks\\intro\\__span-accent",
-    "\\blocks\\lead",
-    "\\blocks\\lead\\__subtitle",
-    "\\blocks\\page\\__container",
-    "\\blocks\\page\\__footer",
-    "\\blocks\\place",
-    "\\blocks\\place\\__image",
-    "\\blocks\\section"
+    "\\blocks\\cover",
+    "\\blocks\\cover\\__overlay"
   ],
-  "SelectedNode": "\\blocks\\place\\__image\\place__image.css",
+  "SelectedNode": "\\blocks\\cover\\__overlay\\cover__overlay.css",
   "PreviewInSolutionExplorer": false
 }
