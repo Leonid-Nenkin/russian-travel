@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\blocks",
-    "\\blocks\\cover",
-    "\\blocks\\cover\\__overlay"
+    "\\blocks\\intro"
   ],
-  "SelectedNode": "\\blocks\\cover\\__overlay\\cover__overlay.css",
+  "SelectedNode": "\\blocks\\section",
   "PreviewInSolutionExplorer": false
 }

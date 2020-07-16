@@ -9,6 +9,12 @@
 
 @media screen and (max-width: 660px) {
     .place__main-text {
+        margin: 32px 0 0;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .place__main-text {
         margin: 32px 16px 0;
     }
 }
