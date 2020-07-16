@@ -11,4 +11,5 @@
     background: #2A2C2F;
     height: 100%;
     width: 100%;
+    transition: 0.5s 0s opacity ease-in;
 }
